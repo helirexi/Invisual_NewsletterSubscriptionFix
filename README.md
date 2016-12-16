@@ -1,2 +1,2 @@
 # Invisual_NewsletterSubscriptionFix
-Fix Magento Newsletter supscription, double opt in in all cases
+Fix Magento 1Newsletter subscription, double opt in in all cases
