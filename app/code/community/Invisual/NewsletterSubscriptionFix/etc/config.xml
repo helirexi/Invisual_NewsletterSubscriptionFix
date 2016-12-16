@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Invisual_NewsletterSubscriptionFix>
+            <version>1.0.1</version>
+            <title>Invisual NewsletterSubscriptionFix</title>
+        </Invisual_NewsletterSubscriptionFix>
+    </modules>
+
+    <global>
+        <models>
+            <newsletter>
+                <rewrite>
+                    <subscriber>Invisual_NewsletterSubscriptionFix_Model_Newsletter_Subscriber</subscriber>
+                </rewrite>
+            </newsletter>
+        </models>
+    </global>
+</config>

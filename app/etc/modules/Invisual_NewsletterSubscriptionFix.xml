@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * @category  Invisual
+ * @package   Invisual_NewsletterSubscriptionFix
+ * @author    InvisualMotion <info@invisual.de>
+ */
+ -->
+<config>
+    <modules>
+        <Invisual_NewsletterSubscriptionFix>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Newsletter />
+            </depends>
+        </Invisual_NewsletterSubscriptionFix>
+    </modules>
+</config>
